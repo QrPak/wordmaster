@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Fives
+
+- ITALIAN -
+*/
+
+
+// Home
+"BEST" = "RECORD";
+//____________________________________________
+
+
+
+// Game Board
+"SCORE" = "PUNTEGGIO";
+"Shake to reset" = "Scuoti per rifare";
+
+//____________________________________________
+
+
+
+// Game Over
+"You could have made" = "Avresti potuto fare";
+"You scored" = "Hai totalizzato";
+"Or other" = "O altre";
+"words" = "parole";
+
+//____________________________________________

@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "You Scored"; ObjectID = "14b-6B-FGQ"; */
+"14b-6B-FGQ.text" = "You Scored";
+
+/* Class = "UILabel"; text = "FIVES"; ObjectID = "4ou-4g-1fs"; */
+"4ou-4g-1fs.text" = "FIVES";
+
+/* Class = "UIButton"; normalTitle = "E"; ObjectID = "9aq-1N-5sb"; */
+"9aq-1N-5sb.normalTitle" = "E";
+
+/* Class = "UILabel"; text = "BEST"; ObjectID = "Fxv-Dc-abj"; */
+"Fxv-Dc-abj.text" = "BEST";
+
+/* Class = "UILabel"; text = "You could have made"; ObjectID = "QP2-oQ-b0b"; */
+"QP2-oQ-b0b.text" = "You could have made";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "U56-cH-NC6"; */
+"U56-cH-NC6.text" = "123";
+
+/* Class = "UIButton"; normalTitle = "I"; ObjectID = "USL-iB-r7U"; */
+"USL-iB-r7U.normalTitle" = "I";
+
+/* Class = "UILabel"; text = "Or other x words"; ObjectID = "Uci-1A-9D7"; */
+"Uci-1A-9D7.text" = "Or other x words";
+
+/* Class = "UILabel"; text = "Shake to reset"; ObjectID = "XXc-sP-1IV"; */
+"XXc-sP-1IV.text" = "Shake to reset";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "uVc-ij-Wmk"; */
+"uVc-ij-Wmk.normalTitle" = "F";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "uz4-7B-eqB"; */
+"uz4-7B-eqB.text" = "1234";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "w0U-sF-15z"; */
+"w0U-sF-15z.normalTitle" = "S";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "yVh-b9-NCK"; */
+"yVh-b9-NCK.text" = "123";
+
+/* Class = "UILabel"; text = "SCORE"; ObjectID = "yqu-m5-HIA"; */
+"yqu-m5-HIA.text" = "SCORE";
+
+/* Class = "UIButton"; normalTitle = "V"; ObjectID = "zjg-iO-3cP"; */
+"zjg-iO-3cP.normalTitle" = "V";

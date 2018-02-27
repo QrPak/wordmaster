@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Fives
+
+- GERMAN -
+*/
+
+
+// Home
+"BEST" = "BESTE";
+"My best score on #Fives is" = "Meine beste Ergebnis auf #Fives ist";
+"can you beat it?" = "können Sie ihn zu schlagen?";
+//____________________________________________
+
+
+
+// Game Board
+"Shake to reset" = "Schütteln Sie zurücksetzen";
+
+//____________________________________________
+
+
+
+// Game Over
+"You could have made" = "Sie gemacht haben könnte";
+"You scored" = "Sie erzielte";
+"Or other" = "oder andere";
+"words" = "Worte";
+
+//____________________________________________
